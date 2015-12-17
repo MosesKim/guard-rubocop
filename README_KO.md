@@ -6,7 +6,7 @@
 
 # guard-rubocop
 
-**guard-rubocop** 을 사용하면 파일이 수정되는 즉시 하면 [RuboCop](https://github.com/bbatsov/rubocop)에 의거해 Ruby code style을 확인할 수 있습니다.
+**guard-rubocop** 을 사용하면 파일이 수정되는 즉시 [RuboCop](https://github.com/bbatsov/rubocop)에 의거해 Ruby code style을 확인할 수 있습니다.
 
 이 버전은 MRI 1.9, 2.0, 2.1, JRuby 1.9 및 Rubinius에서 테스트 완료되었습니다.
 
