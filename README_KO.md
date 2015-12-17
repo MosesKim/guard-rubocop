@@ -106,10 +106,6 @@ Note: You need to use `guard-rspec` 4.2.3 or later due to a [bug](https://github
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-## Translations
-
-1. [Korean](./README_KO.md)
-
 ## License
 
 Copyright (c) 2013–2014 Yuji Nakayama
